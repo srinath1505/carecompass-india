@@ -1,0 +1,152 @@
+[
+  {
+    "state": "Tamil Nadu",
+    "schemes": [
+      {
+        "name": "Kalaignar Health Insurance Scheme",
+        "coverage_amount": "₹500,000 per family per year",
+        "eligibility": "All families with White Ration Card or BPL status in Tamil Nadu",
+        "how_to_apply": "Visit your nearest eSevai center or apply online at https://www.tn.gov.in/scheme/kalaignar"
+      },
+      {
+        "name": "Amma Pharmacy",
+        "coverage_amount": "50–80% discount on generic medicines",
+        "eligibility": "Open to all residents of Tamil Nadu",
+        "how_to_apply": "Visit any Amma Pharmacy store across Tamil Nadu"
+      },
+      {
+        "name": "Nikshay Poshan Yojana (TB Support)",
+        "coverage_amount": "₹500/month for nutritional support during TB treatment",
+        "eligibility": "All TB patients registered on Nikshay portal",
+        "how_to_apply": "Register at your nearest DOTS center or https://nikshay.in"
+      },
+      {
+        "name": "Anemia Mukt Bharat - Iron Distribution",
+        "coverage_amount": "Free Iron Folic Acid tablets for women & children",
+        "eligibility": "All women of reproductive age and children 6–59 months",
+        "how_to_apply": "Visit your nearest Anganwadi or PHC"
+      }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "schemes": [
+      {
+        "name": "Mahatma Jyotiba Phule Jan Arogya Yojana (MJPJAY)",
+        "coverage_amount": "₹150,000 per family per year",
+        "eligibility": "Families holding Yellow Ration Cards in Maharashtra",
+        "how_to_apply": "Call 1800-103-0808 or visit https://mjpy.maharashtra.gov.in"
+      },
+      {
+        "name": "Maha TB Mukt Abhiyan",
+        "coverage_amount": "Free diagnostics + nutritional support for TB patients",
+        "eligibility": "Residents diagnosed with TB in Maharashtra",
+        "how_to_apply": "Visit https://mahatb.in or call 1800-103-0808"
+      },
+      {
+        "name": "Poshan Abhiyaan - Anemia Control",
+        "coverage_amount": "Weekly Iron Folic Acid for adolescents",
+        "eligibility": "School-going girls and boys in grades 6–12",
+        "how_to_apply": "Through school health program"
+      },
+      {
+        "name": "Nikshay Poshan Yojana (Central TB Scheme)",
+        "coverage_amount": "₹500/month direct benefit transfer during TB treatment",
+        "eligibility": "All TB patients notified in Nikshay portal",
+        "how_to_apply": "Automatically enrolled upon TB diagnosis at govt. facility"
+      }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "schemes": [
+      {
+        "name": "Arogya Bhagya Scheme",
+        "coverage_amount": "Top-up coverage for Ayushman Bharat beneficiaries",
+        "eligibility": "All AB-PMJAY eligible families in Karnataka",
+        "how_to_apply": "Visit your nearest Primary Health Centre (PHC)"
+      },
+      {
+        "name": "Nikshay Poshan Yojana (TB Support)",
+        "coverage_amount": "₹500/month for nutritional support during TB treatment",
+        "eligibility": "All TB patients registered on Nikshay portal",
+        "how_to_apply": "Register at your nearest DOTS center or https://nikshay.in"
+      },
+      {
+        "name": "Anemia Mukt Bharat - Karnataka",
+        "coverage_amount": "Free Iron Folic Acid for women & children",
+        "eligibility": "All women 15–49 years and children 6–59 months",
+        "how_to_apply": "Visit Anganwadi or PHC"
+      }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "schemes": [
+      {
+        "name": "Atal Ayushman Uttar Pradesh Scheme",
+        "coverage_amount": "₹500,000 per family per year (covers 100% of households)",
+        "eligibility": "All residents of Uttar Pradesh",
+        "how_to_apply": "Register at https://ayushmanup.gov.in"
+      },
+      {
+        "name": "Nikshay Poshan Yojana (TB Support)",
+        "coverage_amount": "₹500/month for nutritional support during TB treatment",
+        "eligibility": "All TB patients registered on Nikshay portal",
+        "how_to_apply": "Register at your nearest DOTS center"
+      },
+      {
+        "name": "Anemia Mukt Bharat - UP",
+        "coverage_amount": "Free Iron Folic Acid tablets",
+        "eligibility": "Pregnant women, lactating mothers, and children",
+        "how_to_apply": "Through ASHA workers or PHCs"
+      }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "schemes": [
+      {
+        "name": "Swasthya Sathi",
+        "coverage_amount": "₹500,000 per family per year",
+        "eligibility": "All families except income tax payers",
+        "how_to_apply": "Visit https://swasthyasathi.gov.in"
+      },
+      {
+        "name": "Nikshay Poshan Yojana (TB Support)",
+        "coverage_amount": "₹500/month nutritional support for TB patients",
+        "eligibility": "All registered TB patients",
+        "how_to_apply": "Enroll at DOTS center"
+      },
+      {
+        "name": "Anemia Control Program - WB",
+        "coverage_amount": "Free Iron Folic Acid for women & adolescents",
+        "eligibility": "All women 15–49 years and school students",
+        "how_to_apply": "Through schools and health centers"
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "schemes": [
+      {
+        "name": "Mukhyamantri Amrutam (MA) Scheme",
+        "coverage_amount": "₹200,000 per family per year",
+        "eligibility": "Families with White/Yellow Ration Cards",
+        "how_to_apply": "Visit https://ma.gujarat.gov.in"
+      },
+      {
+        "name": "Nikshay Poshan Yojana (TB Support)",
+        "coverage_amount": "₹500/month during TB treatment",
+        "eligibility": "All TB patients in Gujarat",
+        "how_to_apply": "Register at govt. hospital or DOTS center"
+      },
+      {
+        "name": "Poshan Abhiyan - Gujarat",
+        "coverage_amount": "Weekly Iron Folic Acid for adolescents",
+        "eligibility": "School students in grades 6–12",
+        "how_to_apply": "Through school health camps"
+      }
+    ]
+  }
+]

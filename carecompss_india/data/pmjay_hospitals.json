@@ -1,0 +1,12 @@
+[
+  {"state": "Tamil Nadu", "city": "Chennai", "hospital": "Rajiv Gandhi Government General Hospital", "services": ["Diabetes Care", "Cardiology", "Orthopedics"], "pmjay_empaneled": true},
+  {"state": "Tamil Nadu", "city": "Coimbatore", "hospital": "Coimbatore Medical College Hospital", "services": ["General Medicine", "Diabetes"], "pmjay_empaneled": true},
+  {"state": "Maharashtra", "city": "Mumbai", "hospital": "Lokmanya Tilak Municipal Hospital", "services": ["Diabetes", "Nephrology"], "pmjay_empaneled": true},
+  {"state": "Maharashtra", "city": "Pune", "hospital": "Sassoon General Hospital", "services": ["Endocrinology", "Diabetes Care"], "pmjay_empaneled": true},
+  {"state": "Karnataka", "city": "Bangalore", "hospital": "Victoria Hospital", "services": ["Diabetes", "Hypertension"], "pmjay_empaneled": true},
+  {"state": "Karnataka", "city": "Mysore", "hospital": "Mysore Medical College Hospital", "services": ["General Medicine"], "pmjay_empaneled": true},
+  {"state": "Uttar Pradesh", "city": "Lucknow", "hospital": "King George Medical University Hospital", "services": ["Diabetes", "Cardiology"], "pmjay_empaneled": true},
+  {"state": "Uttar Pradesh", "city": "Varanasi", "hospital": "Banaras Hindu University Hospital", "services": ["Diabetes Care"], "pmjay_empaneled": true},
+  {"state": "West Bengal", "city": "Kolkata", "hospital": "SSKM Hospital", "services": ["Diabetes", "Neurology"], "pmjay_empaneled": true},
+  {"state": "Gujarat", "city": "Ahmedabad", "hospital": "Civil Hospital Ahmedabad", "services": ["General Medicine", "Diabetes"], "pmjay_empaneled": true}
+]

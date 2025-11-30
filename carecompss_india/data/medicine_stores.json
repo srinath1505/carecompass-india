@@ -1,0 +1,11 @@
+[
+  {"state": "Tamil Nadu", "city": "Chennai", "name": "Amma Pharmacy - Teynampet", "address": "24, Teynampet, Chennai", "medicines": ["Metformin 500mg", "Gliclazide 80mg", "Insulin Human", "Amlodipine 5mg", "Rifampicin", "Iron Folic Acid", "Paracetamol"], "type": "Amma Pharmacy"},
+  {"state": "Tamil Nadu", "city": "Madurai", "name": "Amma Pharmacy - Goripalayam", "address": "Goripalayam, Madurai", "medicines": ["Metformin", "Atorvastatin", "Thyroxine", "Isoniazid", "Ferrous Sulphate"], "type": "Amma Pharmacy"},
+  {"state": "Tamil Nadu", "city": "Coimbatore", "name": "Jan Aushadhi Kendra - RS Puram", "address": "122, RS Puram, Coimbatore", "medicines": ["Insulin", "Metformin", "Losartan", "Ethambutol", "Vitamin B12", "ORS"], "type": "Jan Aushadhi"},
+  {"state": "Maharashtra", "city": "Mumbai", "name": "Jan Aushadhi - Andheri West", "address": "Near Metro, Andheri West, Mumbai", "medicines": ["Metformin 500mg", "Insulin", "Clopidogrel", "Pyrazinamide", "Paracetamol"], "type": "Jan Aushadhi"},
+  {"state": "Maharashtra", "city": "Pune", "name": "Jan Aushadhi - FC Road", "address": "Near Symbiosis, FC Road, Pune", "medicines": ["Amlodipine", "Metformin", "Omeprazole", "Rifampicin", "Iron Folic Acid"], "type": "Jan Aushadhi"},
+  {"state": "Karnataka", "city": "Bangalore", "name": "Jan Aushadhi - Jayanagar", "address": "4th Block, Jayanagar, Bangalore", "medicines": ["Metformin", "Insulin", "Thyroxine", "Isoniazid", "Ferrous Sulphate", "Paracetamol"], "type": "Jan Aushadhi"},
+  {"state": "Uttar Pradesh", "city": "Lucknow", "name": "Jan Aushadhi - Hazratganj", "address": "Hazratganj, Lucknow", "medicines": ["Metformin 500mg", "Gliclazide", "Insulin", "Rifampicin", "ORS"], "type": "Jan Aushadhi"},
+  {"state": "West Bengal", "city": "Kolkata", "name": "Jan Aushadhi - Park Street", "address": "Park Street, Kolkata", "medicines": ["Metformin", "Insulin", "Amlodipine", "Ethambutol", "Iron Folic Acid"], "type": "Jan Aushadhi"},
+  {"state": "Gujarat", "city": "Ahmedabad", "name": "Jan Aushadhi - Satellite", "address": "Satellite Road, Ahmedabad", "medicines": ["Metformin", "Gliclazide", "Losartan", "Pyrazinamide", "Paracetamol"], "type": "Jan Aushadhi"}
+]
